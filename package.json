@@ -1,6 +1,6 @@
 {
   "name": "year-month-date",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "YYYY.MM.DD or YYYY-MM-DD with constant width, eg 2021-02-03",
   "main": "index.js",
   "scripts": {
